@@ -1,7 +1,7 @@
 
 # Projeto de Automação de Testes com Cypress
 
-Este projeto é uma automação de teste utilizando **Cypress** e o padrão de design **Page Objects**, com o objetivo de cumprir o desafio 4 da **Mentoria em Testes de Software do Julio de Lima**. O foco da automação é validar a funcionalidade de login.
+Este projeto de automação de testes foi criado com o ChatGPT e alguns artigos relacionados a testes de software utilizando **Cypress** e o padrão de design **Page Objects**, com o objetivo de cumprir o desafio 4 da **Mentoria em Testes de Software do Julio de Lima**.
 
 ## Referências
 Automação de Testes com Cypress
@@ -9,6 +9,9 @@ Automação de Testes com Cypress
 
 Cypress com Page Objects
 - https://vitormarinheiroautomation.medium.com/cypress-page-object-sucesso-6841cb7c19a0/
+
+## Prompt do ChatGPT
+- https://chatgpt.com/share/6711e311-5c6c-8010-b18b-2296e1182761
 
 
 ## Instalação do Cypress
